@@ -1,0 +1,38 @@
+* {
+    background-color: darkblue;
+}
+
+table {
+    background-color: white;
+    width: 70%;
+    border: 1px solid black;
+}
+
+#star {
+    border: none;
+}
+
+.longRed{
+    background: red;
+    width: 100px;
+    height: 2%;
+    /* border-left: 1px red solid;
+    border-right:1px red solid;
+    border-bottom: 1px red solid; */
+}
+
+
+.longWhite{
+    background-color: white;
+    width: 100px;
+    height: 2%;
+}
+
+td {
+    border:none;
+    color: transparent;  /* hides text */
+}
+
+tr {
+    border: none;
+}
